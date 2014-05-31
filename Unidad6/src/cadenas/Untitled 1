@@ -1,0 +1,16 @@
+// Pedir el número de nombres, leerlos de teclado y mostrarlos
+// por orden alfabético
+
+// Escribe un programa que pida una cadena. Posteriormente, el programa
+// dejará que el usuario inserte cinco subcadenas con el fin de informar
+// si la primera cadena empieza o termina por cada una de las cindo subcadenas
+
+// Escribe un programa que pida una cadena. Posteriormente, el programa
+// dejará que el usuario inserte cinco subcadenas con el fin de informar si
+// la primera tiene las subcadenas indicadas. Se debe indicar en que
+// posición se encontró y la última.
+
+// Escribe un programa que pida una cadena. Posteriormente, el programa dejará
+// que el usuario inserte varios caracteres hasta que inserte un asterisco, con
+// el fin de informar, para cada carácter, si la cadena lo contiene y en qué
+// posición está el primero.
